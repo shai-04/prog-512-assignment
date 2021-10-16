@@ -1,0 +1,16 @@
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\bin\Debug\Institution Managment System.exe.config
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\bin\Debug\Institution Managment System.exe
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\bin\Debug\Institution Managment System.pdb
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\bin\Debug\Institution Managment System.xml
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\obj\Debug\Institution Managment System.vbprojAssemblyReference.cache
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\obj\Debug\Institution_Managment_System.Resources.resources
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\obj\Debug\Institution Managment System.vbproj.GenerateResource.cache
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\obj\Debug\Institution Managment System.vbproj.CoreCompileInputs.cache
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\obj\Debug\Institution Managment System.exe
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\obj\Debug\Institution Managment System.xml
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\obj\Debug\Institution Managment System.pdb
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\obj\Debug\Institution_Managment_System.frmLoading.resources
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\obj\Debug\Institution_Managment_System.frmLogin.resources
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\obj\Debug\Institution_Managment_System.frmMainAdmin.resources
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\obj\Debug\Institution_Managment_System.frmAbout.resources
+C:\Users\Shaiyur Dooken\Documents\My Documents\Assignments\Programming 512\Institution Managment System\obj\Debug\Institution_Managment_System.frmMainStudent.resources
